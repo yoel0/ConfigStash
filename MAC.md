@@ -1,4 +1,4 @@
-# Installfest: Mac Users
+# Parabellum: Mac Users
 ![](https://www.sadanduseless.com/wp-content/uploads/2019/06/new-apple-mug.png)
 ## Overview
 We'll be installing most of the necessary tools for software engineering. These tools are what we'll be utilizing during our conquest to take over the dev world.
