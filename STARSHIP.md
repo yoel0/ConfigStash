@@ -12,6 +12,7 @@
   width="50%"
   align="right"
 />
+<h1>A copy of the Starship install docs for quick reference</h1>
 
 **The minimal, blazing-fast, and infinitely customizable prompt for any shell!**
 
