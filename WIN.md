@@ -58,7 +58,7 @@ Now let's ensure that the Ubuntu environment is on WSL2, enter the following int
 wsl --list --verbose
 ```
 From the list given, find the Ubuntu instance and add the information to the next command:
-```ps
+```sh
 wsl --set-version <distribution name> <versionNumber>
 ```
 Once these steps are completed, you should be able to open your Ubuntu environment, by selecting it from your start menu, we recommend pinning it to your taskbar. Keep the Ubuntu terminal open for the remainder of this walkthrough.
