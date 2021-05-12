@@ -1,4 +1,4 @@
-# Installfest : Windows Users
+# Parabellum: Windows Users
 ![LinuxVWindows](https://www.psychz.net/content/apr13/windows-vs-linux.png)
 ## Overview
 We'll be installing all of the tools necessary to develop applications on a windows machine running a linux environment/linux machine.
